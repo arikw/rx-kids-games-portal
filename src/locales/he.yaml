@@ -1,0 +1,16 @@
+nav:
+  title: פורטל משחקים לילדים
+  subtitle: משחקים חינוכיים וחינמיים לילדים
+
+games:
+  playNow: שחקו עכשיו
+  viewSource: קוד פתוח
+  ageRange: "גילאי {age}"
+
+lang:
+  switch: English
+  current: עברית
+
+footer:
+  openSource: כל המשחקים חינמיים ובעלי קוד פתוח
+  madeWith: נעשה ב-❤️ לילדים

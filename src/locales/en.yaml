@@ -1,0 +1,16 @@
+nav:
+  title: Kids Games Portal
+  subtitle: Free educational games for children
+
+games:
+  playNow: Play Now
+  viewSource: View Source
+  ageRange: "Ages {age}"
+
+lang:
+  switch: עברית
+  current: English
+
+footer:
+  openSource: All games are free and open-source
+  madeWith: Made with ❤️ for kids

@@ -1,0 +1,42 @@
+games:
+  - id: kids-keyboard-game
+    gameUrl: https://arikw.github.io/kids-keyboard-game/
+    repoUrl: https://github.com/arikw/kids-keyboard-game
+    iconUrl: https://raw.githubusercontent.com/arikw/kids-keyboard-game/master/src/assets/icon.svg
+    iconEmoji: "⌨️"
+    color: "#3498db"
+    ageRange: "3+"
+    name:
+      en: Kids Keyboard Game
+      he: משחק מקלדת לילדים
+    description:
+      en: Learn the alphabet and improve typing skills through fun, interactive keyboard gameplay designed for young children.
+      he: למדו את האלפבית ושפרו את מיומנויות ההקלדה דרך משחק מקלדת אינטראקטיבי ומהנה שתוכנן במיוחד לילדים קטנים.
+
+  - id: move-it-game
+    gameUrl: https://arikw.github.io/move-it-game/
+    repoUrl: https://github.com/arikw/move-it-game
+    iconUrl: ""
+    iconEmoji: "🐭"
+    color: "#27ae60"
+    ageRange: "4+"
+    name:
+      en: Move It Game
+      he: משחק תזוזה
+    description:
+      en: Guide a mouse to the cheese using arrow keys or your actual mouse. Builds hand-eye coordination and keyboard navigation skills.
+      he: הובילו את העכבר לגבינה באמצעות מקשי החצים או העכבר האמיתי. מפתח קואורדינציה בין יד לעין ומיומנויות ניווט.
+
+  - id: multiplication-table-practice
+    gameUrl: https://arikw.github.io/multiplication-table-practice/
+    repoUrl: https://github.com/arikw/multiplication-table-practice
+    iconUrl: https://raw.githubusercontent.com/arikw/multiplication-table-practice/master/public/icon.svg
+    iconEmoji: "✖️"
+    color: "#6c3beb"
+    ageRange: "6+"
+    name:
+      en: Multiplication Table Practice
+      he: תרגול לוח הכפל
+    description:
+      en: Practice multiplication tables 0–10 with individual child profiles, colour-coded progress tracking, and adaptive difficulty.
+      he: תרגלו את לוח הכפל 0–10 עם פרופילים אישיים לכל ילד, מעקב התקדמות בצבעים ורמת קושי מסתגלת.
