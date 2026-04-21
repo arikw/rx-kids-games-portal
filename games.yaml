@@ -22,10 +22,10 @@ games:
     ageRange: "4+"
     name:
       en: Move It Game
-      he: משחק תזוזה
+      he: משחק תזוזת עכבר
     description:
-      en: Guide a mouse to the cheese using arrow keys or your actual mouse. Builds hand-eye coordination and keyboard navigation skills.
-      he: הובילו את העכבר לגבינה באמצעות מקשי החצים או העכבר האמיתי. מפתח קואורדינציה בין יד לעין ומיומנויות ניווט.
+      en: Guide a mouse to the cheese using arrow keys or your actual mouse. Builds hand-eye coordination and mouse skills.
+      he: הובילו את העכבר לגבינה באמצעות מקשי החצים או העכבר האמיתי. מפתח קואורדינציה בין יד לעין ומיומנויות שימוש בעכבר המחשב.
 
   - id: multiplication-table-practice
     gameUrl: https://arikw.github.io/multiplication-table-practice/
