@@ -10,8 +10,8 @@ games:
       en: Kids Keyboard Game
       he: משחק מקלדת לילדים
     description:
-      en: Learn the alphabet and improve typing skills through fun, interactive keyboard gameplay designed for young children.
-      he: למדו את האלפבית ושפרו את מיומנויות ההקלדה דרך משחק מקלדת אינטראקטיבי ומהנה שתוכנן במיוחד לילדים קטנים.
+      en: A fun first experience with the keyboard for young children — press any key and see what happens!
+      he: חווית היכרות ראשונה ומהנה עם המקלדת לילדים קטנים — לוחצים על מקש והוא מוצג בצורה יפה וצבעונית!
 
   - id: move-it-game
     gameUrl: https://arikw.github.io/move-it-game/
