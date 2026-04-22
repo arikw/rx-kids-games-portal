@@ -16,8 +16,8 @@ const router = useRouter()
 
 function toggle() {
   const next = props.locale === 'en' ? 'he' : 'en'
-  persistLocale(next)
   router.push(`/${next}/`)
+  persistLocale(next)
 }
 </script>
 
